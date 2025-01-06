@@ -204,7 +204,7 @@ main hr {
 #work-experience h1 {
   text-align: center;
   font-size: 2.5rem;
-  margin-bottom: 30px;
+  margin-bottom: 90px;
   color: rgb(123, 15, 91) /* Dark color for title */
 }
 
@@ -261,7 +261,7 @@ ul li:last-child {
 }
 
 #projects h1 {
-  margin-top: 120px;
+  margin-top: 90px;
   margin-bottom: 30px;
   text-align: center;
   font-size: 2.5rem;
